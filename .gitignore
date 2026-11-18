@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (re-downloaded by the notebook, don't commit)
+data/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
